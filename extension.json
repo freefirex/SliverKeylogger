@@ -7,6 +7,7 @@
     "repo_url": "N/A",
     "help": "Logs keystrokes using the raw input interface",
     "entrypoint": "entrypoint",
+    "init": "initalize",
     "files": [
     {
     "os": "windows",
